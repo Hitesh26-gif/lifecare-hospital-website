@@ -8,3 +8,7 @@ build/
 !.env.example
 coverage/
 .vercel/
+.next/
+node_modules/
+out/
+.env*
